@@ -1,0 +1,40 @@
+.Container
+{
+    margin: auto;
+
+}
+
+h1
+{
+    color: hotpink;
+}
+
+#answer
+{
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+input
+{
+    margin: 5px;
+    width: 65px; 
+    height: 55px;
+    font-size: 30px;
+    border: 0px solid;
+    background: whitesmoke;
+
+}
+.Calc
+{
+    background:palevioletred;
+    padding: 10px;
+    border-radius: 20px;
+     display :inline-block;
+}
+
+input:active
+{
+   box-shadow: 5px 5px 5px aqua;
+}
